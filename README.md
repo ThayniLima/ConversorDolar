@@ -2,7 +2,7 @@
 Conversor de Real para Dólar feito com HTML, CSS e JavaScript.💸
 # Conversor de Real para Dólar 💱
 
-Um conversor simples de moedas (Real para Dólar), desenvolvido com HTML, CSS e JavaScript.
+Um conversor simples de moedas (Real para Dólar).
 
 ![Imagem do projeto](./imgProjeto.png)
 
